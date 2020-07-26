@@ -1,3 +1,3 @@
-"hello world" do
+"hello world"
 
-puts "hello_world" end
+"hello world"
